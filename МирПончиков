@@ -8,11 +8,17 @@
 </head>
 <body>
     <h1>Мир пончиков</h1>
+    <div>
     <img src = "/uploads/2023/02/donut.png"/>
+    </div>
 </body>
 <style>
     h1{
         color: red;
+        text-align: center;
+    }
+    div{
+        text-align: center;
     }
 </style>
 </html>
